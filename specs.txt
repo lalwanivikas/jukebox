@@ -1,0 +1,20 @@
+v1:
+==
+Player fixed at the bottom of the screen
+  - prev, next buttons
+  - play-pause toggle buttons
+  - loop song
+  - slider
+  - current time on left side of slider and total time on right
+  - volume control - mute and unmute
+
+List all the songs available in a SINGLE folder for now.
+  - clicking on a song should play it
+  - list current song being played
+  - play next song automatically after first finishes
+
+
+v2:
+==
+- search bar
+- deep searching inside folders?

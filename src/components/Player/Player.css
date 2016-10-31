@@ -1,0 +1,59 @@
+.player-controls {
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  background-color: #171D25;
+  opacity: 0.90;
+  padding: .75em 0 1em;
+}
+
+.icons-container {
+  width: 500px;
+  height: 4rem;
+  margin: 0 auto;
+}
+
+.material-icons {
+  font-size: 2.2rem;
+  cursor: pointer;
+  vertical-align: middle;
+  user-select: none;
+}
+
+.play, .pause {
+  font-size: 4rem;
+}
+
+.repeat {
+  float: left;
+  margin-top: 1rem;
+}
+
+.glow {
+  outline: none;
+  border-color: #9ecaed;
+  box-shadow: 0 0 10px #9ecaed;
+}
+
+.volume {
+  float: right;
+  margin-top: 1rem;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 500px;
+  height: 2px;
+  outline: none;
+  cursor: pointer;
+}
+
+.time {
+  display: inline-block;
+  margin: 0 .5em;
+  vertical-align: sub;
+}
+.song-title {
+  padding-top: .5em;
+}

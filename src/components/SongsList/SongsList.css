@@ -1,0 +1,20 @@
+.songs-list {
+  padding-bottom: 9em;
+}
+
+.song-list-item {
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 300;
+  margin: 1em 0;
+  padding: .75em 1em;
+  border: 1px solid #14B7F4;
+  border-radius: 2px;
+  color: #FFF;
+  background-color: #171D25;
+}
+
+.song-list-item:hover {
+  border-color: #9ecaed;
+  box-shadow: 0 0 10px #9ecaed;
+}

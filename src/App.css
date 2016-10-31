@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #FFF;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #1D242E;
+}
+
+li {
+  list-style: none;
+  font-size: 1.1rem;
+}
+
+a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 3.2rem;
+  font-weight: 300;
+  text-align: center;
+}
